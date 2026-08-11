@@ -7,11 +7,17 @@
   { "id": "r8t-listening", "dir": "data/r8t-listening/", "kind": "listening",
     "label": "リスニング", "title": "令和8年度 共通テスト 英語（リスニング）追・再試験",
     "note": "全37問・100点。追・再試験の問題です" },
+  { "id": "r7-listening", "dir": "data/r7-listening/", "kind": "listening",
+    "label": "リスニング", "title": "令和7年度 共通テスト 英語（リスニング）",
+    "note": "全37問・100点。令和7年度 本試験です" },
   { "id": "r8-reading", "dir": "data/r8-reading/", "kind": "reading",
     "label": "リーディング", "title": "令和8年度 共通テスト 英語（リーディング）",
     "note": "全44問・100点。問題冊子を読んで答えます" },
   { "id": "r8t-reading", "dir": "data/r8t-reading/", "kind": "reading",
     "label": "リーディング", "title": "令和8年度 共通テスト 英語（リーディング）追・再試験",
-    "note": "全44問・100点。追・再試験の問題です" }
+    "note": "全44問・100点。追・再試験の問題です" },
+  { "id": "r7-reading", "dir": "data/r7-reading/", "kind": "reading",
+    "label": "リーディング", "title": "令和7年度 共通テスト 英語（リーディング）",
+    "note": "全44問・100点。令和7年度 本試験です" }
  ]
 }

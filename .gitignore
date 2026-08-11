@@ -13,6 +13,7 @@
 # 使う1本だけを明示的に通す。
 !practice/data/r8-listening/audio/r8-listening.mp3
 !practice/data/r8t-listening/audio/r8t-listening.mp3
+!practice/data/r7-listening/audio/r7-listening.mp3
 
 # 自作の読解（今回は演習に入れない。手元にだけ残す）
 practice/data/orig-reading-1/

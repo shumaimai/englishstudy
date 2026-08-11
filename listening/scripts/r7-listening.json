@@ -1,0 +1,609 @@
+{
+ "id": "r7-listening",
+ "source": "令和7年度 大学入学共通テスト 英語（リスニング）本試験 スクリプト",
+ "holder": "独立行政法人 大学入試センター",
+ "blocks": [
+  {
+   "start": 50.5,
+   "end": 72.9,
+   "qs": [
+    1
+   ],
+   "label": "問1",
+   "lines": [
+    {
+     "who": "M",
+     "text": "It was fine this morning when I walked to work, but it’s raining now. Can you drive me home, Lily?"
+    }
+   ]
+  },
+  {
+   "start": 79.7,
+   "end": 95.7,
+   "qs": [
+    2
+   ],
+   "label": "問2",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Let’s not go swimming until we finish our homework."
+    }
+   ]
+  },
+  {
+   "start": 102.6,
+   "end": 121.4,
+   "qs": [
+    3
+   ],
+   "label": "問3",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Do you have any coins? This ticket machine doesn’t accept bills."
+    }
+   ]
+  },
+  {
+   "start": 128.2,
+   "end": 147.5,
+   "qs": [
+    4
+   ],
+   "label": "問4",
+   "lines": [
+    {
+     "who": "M",
+     "text": "I wonder where we’ll go on next year’s field trip. Not far, I hope."
+    }
+   ]
+  },
+  {
+   "start": 181.2,
+   "end": 198.0,
+   "qs": [
+    5
+   ],
+   "label": "問5",
+   "lines": [
+    {
+     "who": "M",
+     "text": "I’d like that gray one. Not the square one, but the other one, with the white band."
+    }
+   ]
+  },
+  {
+   "start": 202.8,
+   "end": 223.7,
+   "qs": [
+    6
+   ],
+   "label": "問6",
+   "lines": [
+    {
+     "who": "M",
+     "text": "None of those people is wearing gloves, but two are wearing scarves. Is it cold or not?"
+    }
+   ]
+  },
+  {
+   "start": 228.6,
+   "end": 244.8,
+   "qs": [
+    7
+   ],
+   "label": "問7",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Look at that kid being pulled by the dog. Let’s help!"
+    }
+   ]
+  },
+  {
+   "start": 249.7,
+   "end": 270.2,
+   "qs": [
+    8
+   ],
+   "label": "問8",
+   "lines": [
+    {
+     "who": "M",
+     "text": "I was expecting to catch lots of fish, so I brought this box. But I only caught a couple."
+    }
+   ]
+  },
+  {
+   "start": 305.7,
+   "end": 352.4,
+   "qs": [
+    9
+   ],
+   "label": "問9",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Oh, you have just a few apps on your phone, like me."
+    },
+    {
+     "who": "W",
+     "text": "Yes. I like it simple."
+    },
+    {
+     "who": "M",
+     "text": "Right. But you arrange yours at the bottom."
+    },
+    {
+     "who": "W",
+     "text": "And you put yours at the top."
+    },
+    {
+     "who": "Question",
+     "text": "Which is the man’s smartphone?"
+    }
+   ]
+  },
+  {
+   "start": 357.3,
+   "end": 398.2,
+   "qs": [
+    10
+   ],
+   "label": "問10",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Did you say you wanted the one with the rainbow design?"
+    },
+    {
+     "who": "W",
+     "text": "No, the kind with the sunshine mark."
+    },
+    {
+     "who": "M",
+     "text": "The bottle or the box?"
+    },
+    {
+     "who": "W",
+     "text": "Whichever is cheaper."
+    },
+    {
+     "who": "Question",
+     "text": "Which item will the man buy?"
+    }
+   ]
+  },
+  {
+   "start": 403.2,
+   "end": 447.3,
+   "qs": [
+    11
+   ],
+   "label": "問11",
+   "lines": [
+    {
+     "who": "W",
+     "text": "Shall we take the ocean-view route?"
+    },
+    {
+     "who": "M",
+     "text": "But we have to pick up Josh at the station. And we need gas, too."
+    },
+    {
+     "who": "W",
+     "text": "What about groceries?"
+    },
+    {
+     "who": "M",
+     "text": "No, we’re fine."
+    },
+    {
+     "who": "Question",
+     "text": "Which route will they probably take?"
+    }
+   ]
+  },
+  {
+   "start": 485.6,
+   "end": 509.0,
+   "qs": [
+    12
+   ],
+   "label": "問12",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Look, there’s a long line for the tickets."
+    },
+    {
+     "who": "W",
+     "text": "Don’t worry. We’re OK."
+    },
+    {
+     "who": "M",
+     "text": "What do you mean?"
+    },
+    {
+     "who": "W",
+     "text": "I already bought our tickets online. All I have to do is show my smartphone screen."
+    },
+    {
+     "who": "M",
+     "text": "Oh, great! Thanks. So we don’t have to wait in line?"
+    },
+    {
+     "who": "W",
+     "text": "No, we can go straight through."
+    }
+   ]
+  },
+  {
+   "start": 517.9,
+   "end": 541.1,
+   "qs": [
+    13
+   ],
+   "label": "問13",
+   "lines": [
+    {
+     "who": "W",
+     "text": "I’m confused. Isn’t this the calligraphy classroom?"
+    },
+    {
+     "who": "M",
+     "text": "No, this is the art room. The room you’re looking for is on the fourth floor."
+    },
+    {
+     "who": "W",
+     "text": "Oh, I thought that’s where we were."
+    },
+    {
+     "who": "M",
+     "text": "We’re one floor below that. You can take the stairs at the end of the hall."
+    },
+    {
+     "who": "W",
+     "text": "Right. Thanks."
+    }
+   ]
+  },
+  {
+   "start": 550.1,
+   "end": 573.4,
+   "qs": [
+    14
+   ],
+   "label": "問14",
+   "lines": [
+    {
+     "who": "W",
+     "text": "Ready to go home? Let’s jump in a taxi."
+    },
+    {
+     "who": "M",
+     "text": "We should wait for the bus. It’s cheaper."
+    },
+    {
+     "who": "W",
+     "text": "But it takes longer. And the taxi fare is just a bit more than two bus tickets."
+    },
+    {
+     "who": "M",
+     "text": "True. So it won’t cost much more than the bus. All right."
+    },
+    {
+     "who": "W",
+     "text": "It’s getting late. Let’s go!"
+    }
+   ]
+  },
+  {
+   "start": 582.4,
+   "end": 608.3,
+   "qs": [
+    15
+   ],
+   "label": "問15",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Let’s have one more practice before our concert."
+    },
+    {
+     "who": "W",
+     "text": "Good idea. Let’s see when the practice room is available. How about today at 5:00?"
+    },
+    {
+     "who": "M",
+     "text": "Well, it’s already 4:30, and we still have time before the performance. It’s the day after tomorrow."
+    },
+    {
+     "who": "W",
+     "text": "So tomorrow at 10:00?"
+    },
+    {
+     "who": "M",
+     "text": "Great. Then we’ll be ready for the big day!"
+    }
+   ]
+  },
+  {
+   "start": 617.2,
+   "end": 638.9,
+   "qs": [
+    16
+   ],
+   "label": "問16",
+   "lines": [
+    {
+     "who": "M",
+     "text": "Did you collect anything when you were a kid?"
+    },
+    {
+     "who": "W",
+     "text": "I sure did. Seashells."
+    },
+    {
+     "who": "M",
+     "text": "Nice! There was no ocean where I grew up. I liked collecting baseball cards."
+    },
+    {
+     "who": "W",
+     "text": "Oh, I loved those! Do you still have them?"
+    },
+    {
+     "who": "M",
+     "text": "Yes, I do. Would you like to see my collection?"
+    }
+   ]
+  },
+  {
+   "start": 647.8,
+   "end": 672.5,
+   "qs": [
+    17
+   ],
+   "label": "問17",
+   "lines": [
+    {
+     "who": "W",
+     "text": "Hey, what’s wrong?"
+    },
+    {
+     "who": "M",
+     "text": "I left my wallet on the train."
+    },
+    {
+     "who": "W",
+     "text": "Oh no, that’s terrible!"
+    },
+    {
+     "who": "M",
+     "text": "Luckily, I remembered which car I was in and reported it immediately. I got my wallet back later and nothing was missing."
+    },
+    {
+     "who": "W",
+     "text": "Isn’t that good?"
+    },
+    {
+     "who": "M",
+     "text": "Yeah, but it’s scary to think that somebody might have all my information."
+    }
+   ]
+  },
+  {
+   "start": 724.5,
+   "end": 770.0,
+   "qs": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "label": "問18〜21",
+   "lines": [
+    {
+     "who": "",
+     "text": "Over the past 4 years we investigated what students at our university had for breakfast. The survey data shows changes in preference in the following four categories: bread, cereal, rice, and yogurt. Interestingly, the percentage of students who chose bread steadily decreased, while the percentage of those who ate yogurt rose fairly consistently. Rice’s popularity fell sharply at one point, but in 2024 it returned to about the same level as in 2021. The percentage of students selecting cereal remained the lowest throughout."
+    }
+   ]
+  },
+  {
+   "start": 818.5,
+   "end": 850.0,
+   "qs": [
+    22,
+    23,
+    24,
+    25
+   ],
+   "label": "問22〜25",
+   "lines": [
+    {
+     "who": "",
+     "text": "Here’s next week’s weather forecast. Monday and Tuesday morning will be sunny and windy. But it looks like there will be a lot of showers Tuesday afternoon, and throughout the evening. On Wednesday morning, watch out for some thick fog. It will be stormy with a chance of thunder and lightning Wednesday afternoon and Thursday. Friday will be clear, with this continuing into Saturday morning. On Saturday afternoon, clouds will start building up, leading to a stormy Sunday morning, then a cloudy afternoon."
+    }
+   ]
+  },
+  {
+   "start": 921.0,
+   "end": 1000.0,
+   "qs": [
+    26
+   ],
+   "label": "問26",
+   "lines": [
+    {
+     "who": "",
+     "text": "① North Beach has been chosen as the most beautiful beach because surfers and local people clean it every morning. You can help them before surfing. The waves are usually less than 1 meter high, so there are always lots of surfers in the water. ② South Beach is not known to many surfers although it is the perfect surfing spot. It is rare to meet other surfers there. Another nice thing is that the waves are about 1 metre high. You can join the regular beach clean-up event sponsored by the local community. ③ East Beach is located far away from the city, so not many surfers go there. The waves are good for surfers; 1 meter high at the most. However, no one cleans up the beach, so it’s not as beautiful as others. ④ West Beach is great for professional surfers. It is an exciting place for experienced surfers but dangerous for beginners because the waves are often over 2 meters high. Not many people use this beach, so there’s no group in charge of cleaning it up."
+    }
+   ]
+  },
+  {
+   "start": 1110,
+   "end": 1264.0,
+   "qs": [
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "label": "問27〜31",
+   "lines": [
+    {
+     "who": "",
+     "text": "Do you know that in the US, millions of Christmas gifts are given each year? Unfortunately, up to one-third of those gifts remain unused or are thrown away. Reducing this waste would help protect the environment. An effective way to do this would be to change people’s attitudes towards regifting. So, what is regifting? Regifting is when the receiver of a gift passes that gift on to another person. In many places, like Iran, Italy, and Papua New Guinea, regifting is a commonly accepted practice. However, in the US, it is a bit more complicated. In a survey of Americans, 76 percent said they thought regifting was all right, but in reality, many are reluctant to regift. Another study showed that it was the person doing the regifting who felt bad about it, while most of the original gift givers thought the regifters were free to do what they wanted with their gifts. Even though 90 percent of the final gift receivers were content with their gifts, it seems clear that regifters remain overly concerned. How can we change the way regifters feel? In an experiment, one group was informed about a special day called National Regifting Day, while another was not. This information made the first group feel regifting was OK, and they regifted 3 times more than the other group. Events like this would encourage positive attitudes towards regifting. Another idea would be to promote systems such as online gift exchanges that enable people to give away or exchange gifts they don’t need. The ease of finding people who want these gifts would make regifting so simple that people would hardly ever throw away unwanted gifts."
+    }
+   ]
+  },
+  {
+   "start": 1320.7,
+   "end": 1346.0,
+   "qs": [
+    32
+   ],
+   "label": "問32",
+   "lines": [
+    {
+     "who": "Student A",
+     "text": "Changing Americans’ ideas about regifting could help reduce waste."
+    },
+    {
+     "who": "Student B",
+     "text": "It is important to change the attitudes of the original gift givers."
+    }
+   ]
+  },
+  {
+   "start": 1351.8,
+   "end": 1383.0,
+   "qs": [
+    33
+   ],
+   "label": "問33",
+   "lines": [
+    {
+     "who": "Joe",
+     "text": "It’s interesting that many Americans think regifting is OK, but still hesitate to do it. Here’s a graph I found from a related study done in New Jersey."
+    },
+    {
+     "who": "May",
+     "text": "Oh, it shows the reasons why people in New Jersey regift. Do you think most of them regift to family and friends?"
+    },
+    {
+     "who": "Joe",
+     "text": "Yes, they do. According to the research, it’s because they know what gifts their loved ones would prefer."
+    }
+   ]
+  },
+  {
+   "start": 1463,
+   "end": 1541.0,
+   "qs": [
+    34,
+    35
+   ],
+   "label": "問34〜35",
+   "lines": [
+    {
+     "who": "Dan",
+     "text": "Kelsey, you’re eating very slowly today. What’s up?"
+    },
+    {
+     "who": "Kelsey",
+     "text": "Well, lately I’ve been chewing each bite of my food at least 30 times."
+    },
+    {
+     "who": "Dan",
+     "text": "Really? Your jaw must get tired. Doesn’t it take longer to finish eating?"
+    },
+    {
+     "who": "Kelsey",
+     "text": "It does, but taking the extra time makes me more conscious of what I’m eating."
+    },
+    {
+     "who": "Dan",
+     "text": "I wonder if I could do that. I’m so eager to eat that I only chew, like, maybe 10 times."
+    },
+    {
+     "who": "Kelsey",
+     "text": "Well, since I started chewing more, I’ve been enjoying all the flavors, and food tastes better."
+    },
+    {
+     "who": "Dan",
+     "text": "But isn’t it difficult to chew soft foods like tofu so many times?"
+    },
+    {
+     "who": "Kelsey",
+     "text": "For food like that, I just chew 10 times per bite. You know, chewing a lot is good for digestion. I also have a healthy appetite now and don’t overeat."
+    },
+    {
+     "who": "Dan",
+     "text": "Oh, that’s good to know. I eat really fast so I tend to eat too much. From now on, I’ll chew more, eat less, and then I’ll feel healthier."
+    },
+    {
+     "who": "Kelsey",
+     "text": "Yes, you can start by just chewing 15 times. That would be easy."
+    }
+   ]
+  },
+  {
+   "start": 1603,
+   "end": 1695.0,
+   "qs": [
+    36,
+    37
+   ],
+   "label": "問36〜37",
+   "lines": [
+    {
+     "who": "Haruka",
+     "text": "How was your weekend, Emily?"
+    },
+    {
+     "who": "Emily",
+     "text": "Good! I went to the waterfront with my family. We got fish and chips from the seaside café and fed some to the nearby birds. It was fun!"
+    },
+    {
+     "who": "Haruka",
+     "text": "Wow. I’ve always wanted to do that. Let’s do that next weekend, Doug."
+    },
+    {
+     "who": "Doug",
+     "text": "Mmm…, I don’t think we should feed those birds, Haruka. Lots of birds gather around the outside eating area, and they might carry viruses harmful to humans. People have been infected in the past, you know."
+    },
+    {
+     "who": "Haruka",
+     "text": "Oh… I see what you’re saying…"
+    },
+    {
+     "who": "Doug",
+     "text": "I also think feeding human food to birds is not good for their health. That’s something else we should consider, Emily."
+    },
+    {
+     "who": "Emily",
+     "text": "But we love doing stuff like that. Lots of people do it, and it’s really cool to see the birds dive and catch the food in the air. The kids love it."
+    },
+    {
+     "who": "Haruka",
+     "text": "Well, I think I agree with Doug on this, Emily. Feeding the birds can do more harm than good. I’ve heard that they can get quite aggressive. Sometimes they even attack young children."
+    },
+    {
+     "who": "Emily",
+     "text": "Really! I didn’t know the extent of the problem. I wouldn’t want to see children harmed."
+    },
+    {
+     "who": "Doug",
+     "text": "Right, Emily. We need to raise more awareness of this issue."
+    },
+    {
+     "who": "Emily",
+     "text": "OK, I understand. I won’t do that again."
+    }
+   ]
+  }
+ ]
+}
